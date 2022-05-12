@@ -1,16 +1,16 @@
-<style>
-    #main{background-color: aquamarine;}
-    #title{text-align: center;}
-    #img-div{
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-        text-align: center;
-            }
-    #tribute-info{
+#title{
+  text-align: center;
+}
+#img-div{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 25px 35px;
+}
+#tribute-info{
   text-align: justify;
 }
 body{
   background-color: cornflowerblue;
 }
-</style>
